@@ -5,8 +5,6 @@
 
 > **“Eyes in the sky, intelligence in flight — mapping, detecting, and saving lives with every second.”**
 
-![Drone Hero](https://images.unsplash.com/photo-1529921879218-1c4f9d9e70f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZHJvbmV8fHx8fDE2ODk4MjY3NjI&ixlib=rb-4.0.3&q=80&w=1080)
-
 ---
 
 ## 🌟 Project Overview
@@ -57,6 +55,7 @@ Using **AirSim** for hyper-realistic flight simulation and **YOLOv5** for person
 git clone https://github.com/kafkakaif/DroneSurvivorDetection.git
 cd DroneSurvivorDetection
 Create a virtual environment
+--- 
 
 bash
 Copy code
@@ -86,6 +85,7 @@ pip install -r requirements.txt
 Place AirSim environments
 
 Put your maps (CityEnviron / Blocks) in AirSimEnvironments/
+---
 
 🖥️ Usage
 Run the main script:
